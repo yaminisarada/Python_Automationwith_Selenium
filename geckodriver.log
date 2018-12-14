@@ -1,0 +1,349 @@
+1544659858677	geckodriver	INFO	Listening on 127.0.0.1:8947
+1544659861813	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette", "--headless"]
+*** You are running in headless mode.
+1544659873622	Marionette	INFO	Listening on port 8957
+1544659874053	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544659874161	Marionette	DEBUG	[6442450945] Frame script loaded
+1544659874611	Marionette	DEBUG	[6442450945] Frame script registered
+1544659874784	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544659877165	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544659877785	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1544659879041	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1544659978086	geckodriver	INFO	Listening on 127.0.0.1:9004
+1544659981216	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette", "--headless"]
+*** You are running in headless mode.
+1544659985807	Marionette	INFO	Listening on port 9012
+1544659986570	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544659986664	Marionette	DEBUG	[6442450945] Frame script loaded
+1544659986667	Marionette	DEBUG	[6442450945] Frame script registered
+1544659986688	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544659988348	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544659988675	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1544659989833	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1544660046023	geckodriver	INFO	Listening on 127.0.0.1:9057
+1544660049172	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1544660054626	Marionette	INFO	Listening on port 9065
+1544660054950	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544660055072	Marionette	DEBUG	[6442450945] Frame script loaded
+1544660055101	Marionette	DEBUG	[6442450945] Frame script registered
+1544660055125	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544660057106	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544660057229	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1544660059218	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1544660127989	geckodriver	INFO	Listening on 127.0.0.1:9100
+1544660131127	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1544660136124	Marionette	INFO	Listening on port 9108
+1544660136398	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544660136503	Marionette	DEBUG	[6442450945] Frame script loaded
+1544660136556	Marionette	DEBUG	[6442450945] Frame script registered
+1544660136589	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544660138829	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544660138993	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1544660139980	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1544660201738	geckodriver	INFO	Listening on 127.0.0.1:9145
+1544660204886	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1544660209800	Marionette	INFO	Listening on port 9153
+1544660210243	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544660210350	Marionette	DEBUG	[6442450945] Frame script loaded
+1544660210353	Marionette	DEBUG	[6442450945] Frame script registered
+1544660210374	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544660212302	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544660212627	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1544660214113	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1544660301292	geckodriver	INFO	Listening on 127.0.0.1:9192
+1544660304423	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1544660309286	Marionette	INFO	Listening on port 9200
+1544660309678	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544660309780	Marionette	DEBUG	[6442450945] Frame script loaded
+1544660309783	Marionette	DEBUG	[6442450945] Frame script registered
+1544660309803	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544660311574	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544660311725	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1544660312695	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+[Child 14864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14864, Chrome_ChildThread] [Child 3456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[Parent 14116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi1544660338600	Marionette	INFO	Stopped listening on port 9200
+[GPU[Parent 14116, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1544660519844	geckodriver	INFO	Listening on 127.0.0.1:9261
+1544660522933	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1544660529889	Marionette	INFO	Listening on port 9269
+1544660530292	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544660530399	Marionette	DEBUG	[6442450945] Frame script loaded
+1544660530402	Marionette	DEBUG	[6442450945] Frame script registered
+1544660530429	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544660532335	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544660532505	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1544660533667	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+[Child 6840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium[Parent 16176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch1544660571816	Marionette	INFO	Stopped listening on port 9269
+[GPU 1544660599038	geckodriver	INFO	Listening on 127.0.0.1:9323
+1544660602154	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1544660607032	Marionette	INFO	Listening on port 9331
+1544660607407	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544660607552	Marionette	DEBUG	[6442450945] Frame script loaded
+1544660607555	Marionette	DEBUG	[6442450945] Frame script registered
+1544660607579	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544660609826	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544660610163	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1544660611204	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+[Child 5568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5568, Chrome_[Parent 6492, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544660988249	Marionette	INFO	Stopped listening on port 9331
+[GP2450945] Frame script loaded
+1544660830057	Marionette	DEBUG	[6442450945] Frame script registered
+1544660830227	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544660832815	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544660833169	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1544660834272	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+[Child 8440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.c[Child 6724, Chrome_ChildThread] cWARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346,
+ line 34[Ch6
+[Child[Child 1900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch1544660993701	Marionette	INFO	Stopped listening on port 9389
+[GPU [Parent 10452, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+44660962361	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1544660963481	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+[Parent 15732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[C1544661013201	Marionette	INFO	Stopped listening on port 9447
+[GPU 1JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 408: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 424: Error: OS.File has been shut down. Rejecting request to new_DirectoryIterator
+1544661091029	geckodriver	INFO	Listening on 127.0.0.1:9511
+1544661094181	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1544661099350	Marionette	INFO	Listening on port 9519
+1544661099488	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544661099616	Marionette	DEBUG	[6442450945] Frame script loaded
+1544661099624	Marionette	DEBUG	[6442450945] Frame script registered
+1544661099648	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544661101688	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544661102099	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1544661103223	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+[Child 5920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7152, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Parent 7152, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544661218191	Marionette	INFO	Stopped listening on port 9519
+[GPU [Parent 7152, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1544661308016	geckodriver	INFO	Listening on 127.0.0.1:9576
+1544661311140	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1544661315847	Marionette	INFO	Listening on port 9584
+1544661316395	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544661316502	Marionette	DEBUG	[6442450945] Frame script loaded
+1544661316505	Marionette	DEBUG	[6442450945] Frame script registered
+1544661316528	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544661318439	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544661318793	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1544661320180	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+[Parent 7296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: [Child 10512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[Parent 4004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1544661614926	Marionette	INFO	Stopped listening on port 9636
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch1544661612471	Marionette	INFO	Stopped listening on port 9584
+2450945] Received DOM event pageshow for https://www.google.com/
+[Parent 10440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/com[Parent 10440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544661620786	Marionette	INFO	Stopped listening on port 9699
+[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+5] Received DOM event DOMContentLoaded for https://www.google.com/
+1544661620846	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+[Parent 10100, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10100, Gecko_IOThread] WARNING: pipe error: 1544661721617	Marionette	INFO	Listening on port 9820
+1544661722010	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544661722134	Marionette	DEBUG	[6442450945] Frame script loaded
+1544661722138	Marionette	DEBUG	[6442450945] Frame script registered
+1544661722159	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544661724105	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544661724358	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1544661725650	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+[Parent 5396, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6556, Chrome1544662120814	Marionette	INFO	Stopped listening on port 9820
+[GPU 450945] Frame script loaded
+1544661983063	Marionette	DEBUG	[6442450945] Frame script registered
+1544661983122	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544661984272	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544661984574	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1544661986214	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1544661997801	geckodriver	INFO	Listening on 127.0.0.1:10001
+1544662000931	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1544662007184	Marionette	INFO	Listening on port 10009
+1544662007203	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544662007305	Marionette	DEBUG	[6442450945] Frame script loaded
+1544662007312	Marionette	DEBUG	[6442450945] Frame script registered
+1544662007339	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544662009837	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544662009974	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1544662010982	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+JavaScript error: /_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en.UKVmf6_Umm4.O/am=Ag/rt=j/d=1/excm=appwidgetnoauthview,_b,_tp/ed=1/dg=0/rs=AM-SdHtzFE1jya51aGKC-aIFzjlIaWRQAA/m=_b,_tp, line 264: NS_ERROR_NOT_INITIALIZED: 
+1544662160343	geckodriver	INFO	Listening on 127.0.0.1:10091
+1544662163457	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette", "--headless"]
+*** You are running in headless mode.
+1544662168951	Marionette	INFO	Listening on port 10099
+1544662169256	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544662169346	Marionette	DEBUG	[6442450945] Frame script loaded
+1544662169349	Marionette	DEBUG	[6442450945] Frame script registered
+1544662169370	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544662171564	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544662171727	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1544662173171	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1544662447569	geckodriver	INFO	Listening on 127.0.0.1:10157
+1544662450696	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette", "--headless"]
+*** You are running in headless mode.
+1544662455465	Marionette	INFO	Listening on port 10165
+1544662455944	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544662456033	Marionette	DEBUG	[6442450945] Frame script loaded
+1544662456035	Marionette	DEBUG	[6442450945] Frame script registered
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+ate errors will be ignored for this session
+1544662520598	Marionette	DEBUG	[6442450945] Frame script loaded
+1544662520601	Marionette	DEBUG	[6442450945] Frame script registered
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+ate errors will be ignored for this session
+1544662547428	Marionette	DEBUG	[6442450945] Frame script loaded
+1544662547431	Marionette	DEBUG	[6442450945] Frame script registered
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+pe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1544662587984	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544662591818	Marionette	DEBUG	[6442450945] Frame script loaded
+1544662591821	Marionette	DEBUG	[6442450945] Frame script registered
+1544662591863	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544662592797	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544662593115	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1544662594319	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+ate errors will be ignored for this session
+1544662638215	Marionette	DEBUG	[6442450945] Frame script loaded
+1544662638219	Marionette	DEBUG	[6442450945] Frame script registered
+1544662638287	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544662639942	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544662640106	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1544662641444	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+ pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544662701749	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544662705155	Marionette	DEBUG	[6442450945] Frame script loaded
+1544662705158	Marionette	DEBUG	[6442450945] Frame script registered
+1544662705202	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544662706692	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544662706838	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1544662707759	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+ pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1544662744349	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544662745130	Marionette	DEBUG	[6442450945] Frame script loaded
+1544662745133	Marionette	DEBUG	[6442450945] Frame script registered
+1544662745187	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544662746533	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544662746779	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1544662747701	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+pe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch1544662780809	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2E0056,name=PContent::Msg_ProvideAnonymousTemporaryFile) Closed channel: cannot send/recv
+
+1544662784603	Marionette	DEBUG	[6442450945] Frame script loaded
+1544662784606	Marionette	DEBUG	[6442450945] Frame script registered
+1544662784656	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544662786931	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544662786932	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1544662787515	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1544662789017	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1544663046238	geckodriver	INFO	Listening on 127.0.0.1:10659
+1544663049271	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette", "--headless"]
+*** You are running in headless mode.
+1544663065287	Marionette	INFO	Listening on port 10667
+1544663065558	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544663065669	Marionette	DEBUG	[6442450945] Frame script loaded
+1544663065696	Marionette	DEBUG	[6442450945] Frame script registered
+1544663065726	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544663067485	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544663067618	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1544663068556	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1544663229756	geckodriver	INFO	Listening on 127.0.0.1:10784
+1544663232854	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette", "--headless"]
+*** You are running in headless mode.
+1544663237906	Marionette	INFO	Listening on port 10792
+1544663238127	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544663238225	Marionette	DEBUG	[6442450945] Frame script loaded
+1544663238229	Marionette	DEBUG	[6442450945] Frame script registered
+1544663238249	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544663240770	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544663240991	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1544663242018	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
